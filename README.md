@@ -2,6 +2,10 @@
 
 -👀 Aim: Data Scientist
 
+-🤍 Not self taught | It's teacher taught!
+
+-🎀 Ex-Chinmayan
+
 -🌱 I’m currently exploring: My self who can build a great future in Data Science field.
 
 -🔭 I’m currently studying,looking deep into Python(mostly),C++ and C#
