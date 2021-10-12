@@ -1,9 +1,15 @@
 -👋 Hi there , I’m Abhinav Krishna -@ammaskid
+
 -👀 Aim: Data Scientist
+
 -🌱 I’m currently exploring: My self who can build a great future in Data Science field.
+
 -🔭 I’m currently studying,looking deep into Python(mostly),C++ and C#
+
 -💬 Ask me about: Python, Data Analytics, Jokes, Memes and songs🎧
+
 -⚡ Fun fact: Most of the newbies of CS thinks there is no difference between Machine Learning & Data Science.
+
 -📫 Reach me on instagram @ammas_kid
 
 <!---
