@@ -2,7 +2,7 @@
 
 -👀 Aim: Data Scientist
 
--🤍 Not self taught | It's teacher taught! #jeenateacher⚡
+-🤍Self taught
 
 -🎀 Ex-Chinmayan
 
